@@ -5,6 +5,9 @@
         "Microsoft.Framework.CommandLineUtils": "1.0.0-*",
         "System.Net.Http": "2.2.13"
     },
+    "commands": {
+        "go": "run"
+    },
     "frameworks": {
         "aspnet50": {},
         "aspnetcore50": {
