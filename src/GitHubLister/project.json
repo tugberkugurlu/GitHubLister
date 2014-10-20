@@ -1,0 +1,23 @@
+{
+    "name": "GitHubLister",
+    "version": "1.0.0",
+    "dependencies": {
+        "Microsoft.Framework.CommandLineUtils": "1.0.0-*",
+        "System.Net.Http": "2.2.13"
+    },
+    "frameworks": {
+        "aspnet50": {},
+        "aspnetcore50": {
+            "dependencies": {
+                "System.Collections": "4.0.10-beta-*",
+                "System.ComponentModel": "4.0.0-beta-*",
+                "System.Console": "4.0.0-beta-*",
+                "System.Linq": "4.0.0-beta-*",
+                "System.Reflection": "4.0.10-beta-*",
+                "System.Runtime": "4.0.20-beta-*",
+                "System.Runtime.Extensions": "4.0.10-beta-*",
+                "System.Threading.Tasks": "4.0.10-beta-*"
+            }
+        }
+    }
+}
